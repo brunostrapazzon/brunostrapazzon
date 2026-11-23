@@ -28,7 +28,7 @@ Trabalho com suporte de TI e redes desde 2023, e é de lá que vêm os problemas
 
 | Projeto | O que faz |
 |---|---|
-| EV ChargeOps (FIAP Global Solution) | Divide a conta de recarga de carros elétricos em condomínio. Lê o carregador via Modbus, identifica a unidade por RFID e usa detecção de anomalias (Isolation Forest) para barrar medições suspeitas antes da cobrança. |
+| EV ChargeOps (Enterprise Challenge GoodWe + FIAP) | Divide a conta de recarga de carros elétricos em condomínio. Lê o carregador via Modbus, identifica a unidade por RFID e usa detecção de anomalias (Isolation Forest) para barrar medições suspeitas: nos testes, pegou as 12 sessões com problema sem bloquear nenhuma normal. |
 | [Monitoramento ARES-VII](https://github.com/brunostrapazzon/Global-Solution---1-Semestre-) | Telemetria de uma missão simulada em Marte: alertas priorizados com fila e pilha e previsão da reserva de energia com regressão linear feita à mão. |
 | [SCIC Aurora Siger](https://github.com/brunostrapazzon/scic-aurora-siger) | Análise de latência, previsão, alertas priorizados com heap e busca por prefixo com trie. |
 
