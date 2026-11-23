@@ -19,7 +19,7 @@ Estudo Ciência da Computação na FIAP (2026–2029) e uso Python para tirar es
 
 | Projeto | O que faz |
 |---|---|
-| [Citizen Assist AI](https://github.com/brunostrapazzon/CITIZEN-ASSIST-AI) | Orienta o cidadão com base em fontes oficiais: busca na base de conhecimento, grafo com Dijkstra e duas estratégias de prompt comparadas. |
+| [Citizen Assist AI](https://github.com/brunostrapazzon/CITIZEN-ASSIST-AI) | Orienta o cidadão com base em fontes oficiais: busca na base de conhecimento, grafo com Dijkstra e duas estratégias de prompt comparadas. [Vídeo de apresentação](https://youtu.be/QpQYXNN09l8). |
 | [Monitoramento ARES-VII](https://github.com/brunostrapazzon/Global-Solution---1-Semestre-) | Lê telemetria de uma missão simulada em Marte, prioriza alertas com fila e pilha e prevê a reserva de energia com regressão linear feita à mão. |
 | [SCIC Aurora Siger](https://github.com/brunostrapazzon/scic-aurora-siger) | Análise de latência, previsão, alertas priorizados com heap e busca por prefixo com trie. |
 
