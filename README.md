@@ -42,4 +42,4 @@ Trabalho com suporte de TI e redes desde 2023, e é de lá que vêm os problemas
 
 Procuro minha primeira vaga remota em automação ou IA aplicada. Veja o [portfólio](https://brunostrapazzon.github.io) ou fale comigo pelo [LinkedIn](https://www.linkedin.com/in/brunostrapazzon).
 
-<sub>In English: Computer Science student at FIAP (Brazil), English B2, IT support since 2023. I build automation and AI systems you can check: deterministic rules where a model could be wrong, tests and metrics to know when it is right. Start with [NetDoctor](https://github.com/brunostrapazzon/NetDoctor).</sub>
+<sub>In English: Computer Science student at FIAP (Brazil), English B2, IT support since 2023. I build automation and AI systems you can check: deterministic rules where a model could be wrong, tests and metrics to know when it is right. Start with [NetDoctor](https://github.com/brunostrapazzon/NetDoctor) or the [English portfolio](https://brunostrapazzon.github.io/en/).</sub>
